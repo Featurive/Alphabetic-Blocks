@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alphabet",
+  "name": "Alphabetic Blocks",
+  "description": "Make your own words!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["featurive"],
+  "credits": "Mod coded by featurive",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
