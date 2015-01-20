@@ -1,5 +1,6 @@
 package com.featurive.alphabet;
 
+import com.featurive.alphabet.init.ModBlocks;
 import com.featurive.alphabet.init.ModItems;
 import com.featurive.alphabet.init.ModModels;
 import com.featurive.alphabet.reference.References;
@@ -14,6 +15,7 @@ public class Alphabet{
     @EventHandler
     public void preInit(FMLPreInitializationEvent event){
         ModItems.init();
+        ModBlocks.init();
     }
 
     @EventHandler

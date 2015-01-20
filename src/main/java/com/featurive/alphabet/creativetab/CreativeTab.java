@@ -1,4 +1,4 @@
-package com.featurive.alphabet.block;
+package com.featurive.alphabet.creativetab;
 
 import com.featurive.alphabet.item.ItemList;
 import com.featurive.alphabet.reference.References;
