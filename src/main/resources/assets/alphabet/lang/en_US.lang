@@ -1,2 +1,31 @@
 item.alphabet:face.name=Face
-itemGroup.alphabe=Alphabetic Blocks
+itemGroup.alphabet=Alphabetic Blocks
+
+tile.alphabet:letter_a.name=Letter A
+tile.alphabet:letter_b.name=Letter B
+tile.alphabet:letter_c.name=Letter C
+tile.alphabet:letter_d.name=Letter D
+tile.alphabet:letter_e.name=Letter E
+tile.alphabet:letter_f.name=Letter F
+tile.alphabet:letter_g.name=Letter G
+tile.alphabet:letter_h.name=Letter H
+tile.alphabet:letter_i.name=Letter I
+tile.alphabet:letter_j.name=Letter J
+tile.alphabet:letter_k.name=Letter K
+tile.alphabet:letter_l.name=Letter L
+tile.alphabet:letter_m.name=Letter M
+tile.alphabet:letter_n.name=Letter N
+tile.alphabet:letter_o.name=Letter O
+tile.alphabet:letter_p.name=Letter P
+tile.alphabet:letter_q.name=Letter Q
+tile.alphabet:letter_r.name=Letter R
+tile.alphabet:letter_s.name=Letter S
+tile.alphabet:letter_t.name=Letter T
+tile.alphabet:letter_u.name=Letter U
+tile.alphabet:letter_v.name=Letter V
+tile.alphabet:letter_w.name=Letter W
+tile.alphabet:letter_x.name=Letter X
+tile.alphabet:letter_y.name=Letter Y
+tile.alphabet:letter_z.name=Letter Z
+
+

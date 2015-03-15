@@ -1,16 +1,12 @@
-package com.featurive.alphabet.item;
+package com.featurive.alphabet.item.constructor;
 
-import com.featurive.alphabet.creativetab.CreativeTab;
 import com.featurive.alphabet.reference.References;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
 public class ModItem extends Item {
-    public ModItem(boolean noTab){
-        super();
-        if(!noTab){
-            setCreativeTab(CreativeTab.alphabet);
-        }
+    public ModItem(){
+        //setCreativeTab(CreativeTab.alphabet);
     }
 
     @Override

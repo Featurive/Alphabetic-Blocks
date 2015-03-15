@@ -1,6 +1,6 @@
 package com.featurive.alphabet.creativetab;
 
-import com.featurive.alphabet.item.ItemList;
+import com.featurive.alphabet.item.constructor.ItemList;
 import com.featurive.alphabet.reference.References;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
